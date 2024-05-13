@@ -1,0 +1,17 @@
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\bin\Debug\DAL.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\bin\Debug\DAL.pdb
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.pdb
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\bin\Debug\DAL.dll.config
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\bin\Debug\EntityFramework.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\bin\Debug\EntityFramework.xml
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.initDB.resources
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.initDB1.resources
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.account.resources
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.accountUpdated.resources

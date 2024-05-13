@@ -1,0 +1,14 @@
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\BLL.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\BLL.pdb
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\DAL.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\DAL.pdb
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\obj\Debug\BLL.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\obj\Debug\BLL.pdb
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\AutoMapper.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\EntityFramework.dll
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\DAL.dll.config
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\AutoMapper.xml
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\BLL\bin\Debug\EntityFramework.xml

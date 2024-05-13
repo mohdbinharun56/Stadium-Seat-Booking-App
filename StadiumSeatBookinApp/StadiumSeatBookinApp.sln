@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StadiumSeatBookingApp", "StadiumSeatBookingApp.csproj", "{505530D0-2F42-4D88-B00C-6C117629DEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{C4FCE31B-C751-4698-899A-8FD907DC0226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{F036C840-2348-4013-AFEE-3EBD884968CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505530D0-2F42-4D88-B00C-6C117629DEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505530D0-2F42-4D88-B00C-6C117629DEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505530D0-2F42-4D88-B00C-6C117629DEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505530D0-2F42-4D88-B00C-6C117629DEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FCE31B-C751-4698-899A-8FD907DC0226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FCE31B-C751-4698-899A-8FD907DC0226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FCE31B-C751-4698-899A-8FD907DC0226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FCE31B-C751-4698-899A-8FD907DC0226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F036C840-2348-4013-AFEE-3EBD884968CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F036C840-2348-4013-AFEE-3EBD884968CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F036C840-2348-4013-AFEE-3EBD884968CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F036C840-2348-4013-AFEE-3EBD884968CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD1A224-DBA0-4993-86F3-D9EA89EDAFC4}
+	EndGlobalSection
+EndGlobal
