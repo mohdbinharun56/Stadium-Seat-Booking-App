@@ -15,3 +15,4 @@ D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.csproj.Generat
 D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.initDB1.resources
 D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.account.resources
 D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.accountUpdated.resources
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.AddStadiumE.resources

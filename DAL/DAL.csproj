@@ -69,11 +69,16 @@
     <Compile Include="Migrations\202405050246448_accountUpdated.Designer.cs">
       <DependentUpon>202405050246448_accountUpdated.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405131658151_AddStadiumE.cs" />
+    <Compile Include="Migrations\202405131658151_AddStadiumE.Designer.cs">
+      <DependentUpon>202405131658151_AddStadiumE.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\Booking.cs" />
     <Compile Include="Models\Event.cs" />
     <Compile Include="Models\Seat.cs" />
+    <Compile Include="Models\Stadium.cs" />
     <Compile Include="Models\StadiumSeatBookingContext.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,6 +87,7 @@
     <Compile Include="Repos\EventRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\SeatRepo.cs" />
+    <Compile Include="Repos\StadiumRepo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -100,6 +106,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405050246448_accountUpdated.resx">
       <DependentUpon>202405050246448_accountUpdated.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405131658151_AddStadiumE.resx">
+      <DependentUpon>202405131658151_AddStadiumE.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

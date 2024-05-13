@@ -13,7 +13,8 @@ namespace DAL.Models
         public DbSet<Event> Events { get; set; }
         public DbSet<Booking> Bookings { get; set; }
         public DbSet<Seat> Seats { get; set; }
-
         public DbSet<Account> Accounts { get; set; }
+        public DbSet<Stadium> Stadiums { get; set; }
+
     }
 }

@@ -36,5 +36,9 @@ namespace DAL
             return new AccountRepo();
         }
 
+        public static IRepo<Stadium, int, bool> StadiumData()
+        {
+            return new StadiumRepo();
+        }
     }
 }

@@ -3,21 +3,52 @@
   "WorkspaceRootPath": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\repos\\stadiumrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\stadiumseatbookinapp\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|solutionrelative:controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\models\\stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\models\\stadiumseatbookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\dtos\\stadiumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\services\\stadiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\migrations\\202405131658151_addstadiume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\repos\\seatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\stadiumseatbookinapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|solutionrelative:controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\repos\\seatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -26,16 +57,10 @@
       "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\models\\stadiumseatbookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -44,7 +69,7 @@
       "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\repos\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\stadiumseatbookinapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -52,9 +77,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F036C840-2348-4013-AFEE-3EBD884968CB}|..\\DAL\\DAL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\dal\\migrations\\202404270947250_initdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -67,10 +89,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4FCE31B-C751-4698-899A-8FD907DC0226}|..\\BLL\\BLL.csproj|d:\\aiub\\adv .net\\projects\\stadiumseatbookingapp\\bll\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{505530D0-2F42-4D88-B00C-6C117629DEFC}|StadiumSeatBookingApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,76 +98,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SeatRepo.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\SeatRepo.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repos\\SeatRepo.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\SeatRepo.cs",
-              "RelativeToolTip": "..\\DAL\\Repos\\SeatRepo.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAlwCsAAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "StadiumRepo.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\StadiumRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repos\\StadiumRepo.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\StadiumRepo.cs",
+              "RelativeToolTip": "..\\DAL\\Repos\\StadiumRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:51:33.548Z",
+              "WhenOpened": "2024-05-13T17:06:10.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeatController.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\SeatController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SeatController.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\SeatController.cs",
-              "RelativeToolTip": "Controllers\\SeatController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAqwEAAAAAgAAAA",
+              "DocumentIndex": 3,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Interface\\IRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interface\\IRepo.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Interface\\IRepo.cs",
+              "RelativeToolTip": "..\\DAL\\Interface\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:49:44.022Z",
+              "WhenOpened": "2024-05-13T17:05:45.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StadiumDTO.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\StadiumDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOs\\StadiumDTO.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\StadiumDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOs\\StadiumDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:05:33.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Models\\Booking.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Booking.cs",
-              "RelativeToolTip": "..\\DAL\\Models\\Booking.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Title": "StadiumService.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\Services\\StadiumService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\StadiumService.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\Services\\StadiumService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\StadiumService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T09:31:44.604Z",
+              "WhenOpened": "2024-05-13T17:00:57.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SeatDTO.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\SeatDTO.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\DTOs\\SeatDTO.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\SeatDTO.cs",
-              "RelativeToolTip": "..\\BLL\\DTOs\\SeatDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "DocumentIndex": 6,
+              "Title": "202405131658151_AddStadiumE.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Migrations\\202405131658151_AddStadiumE.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202405131658151_AddStadiumE.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Migrations\\202405131658151_AddStadiumE.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\202405131658151_AddStadiumE.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T05:47:03.103Z",
+              "WhenOpened": "2024-05-13T16:58:22.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "Controllers\\BookingController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAgwDkAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "Stadium.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Stadium.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\Stadium.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Stadium.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\Stadium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T08:55:01.66Z",
+              "WhenOpened": "2024-05-13T16:54:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T04:13:21.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StadiumSeatBookingContext.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\StadiumSeatBookingContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\StadiumSeatBookingContext.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\StadiumSeatBookingContext.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\StadiumSeatBookingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T04:10:57.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repos\\BookingRepo.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeToolTip": "..\\DAL\\Repos\\BookingRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:23:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BookingDTO.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\BookingDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOs\\BookingDTO.cs",
@@ -162,20 +232,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookingRepo.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\BookingRepo.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repos\\BookingRepo.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\BookingRepo.cs",
-              "RelativeToolTip": "..\\DAL\\Repos\\BookingRepo.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAMAAAA",
+              "DocumentIndex": 8,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwDUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T09:23:07.488Z",
+              "WhenOpened": "2024-04-27T08:55:01.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccessFactory.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:39:48.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "AccountDTO.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\AccountDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOs\\AccountDTO.cs",
@@ -183,12 +266,24 @@
               "RelativeToolTip": "..\\BLL\\DTOs\\AccountDTO.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:56:55.17Z",
+              "WhenOpened": "2024-05-05T02:56:55.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeatDTO.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\SeatDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOs\\SeatDTO.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\SeatDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOs\\SeatDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:47:03.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "BookingService.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\Services\\BookingService.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Services\\BookingService.cs",
@@ -196,12 +291,11 @@
               "RelativeToolTip": "..\\BLL\\Services\\BookingService.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAYwDcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T08:34:33.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T08:34:33.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "SeatService.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\Services\\SeatService.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Services\\SeatService.cs",
@@ -209,12 +303,11 @@
               "RelativeToolTip": "..\\BLL\\Services\\SeatService.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T09:03:37.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T09:03:37.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Event.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Event.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Models\\Event.cs",
@@ -222,25 +315,47 @@
               "RelativeToolTip": "..\\DAL\\Models\\Event.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T09:09:13.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StadiumSeatBookingContext.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\StadiumSeatBookingContext.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Models\\StadiumSeatBookingContext.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\StadiumSeatBookingContext.cs",
-              "RelativeToolTip": "..\\DAL\\Models\\StadiumSeatBookingContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T04:10:57.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T09:09:13.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\Booking.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Booking.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\Booking.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:31:44.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeatController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\SeatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeatController.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\SeatController.cs",
+              "RelativeToolTip": "Controllers\\SeatController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwEAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:49:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeatRepo.cs",
+              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\SeatRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repos\\SeatRepo.cs",
+              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\SeatRepo.cs",
+              "RelativeToolTip": "..\\DAL\\Repos\\SeatRepo.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAlwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:51:33.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Models\\Account.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Models\\Account.cs",
@@ -248,12 +363,11 @@
               "RelativeToolTip": "..\\DAL\\Models\\Account.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAcwAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:31:00.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T02:31:00.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "AccountRepo.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Repos\\AccountRepo.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Repos\\AccountRepo.cs",
@@ -261,25 +375,11 @@
               "RelativeToolTip": "..\\DAL\\Repos\\AccountRepo.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAASwCsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:33:30.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T02:33:30.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DataAccessFactory.cs",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\DataAccessFactory.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DataAccessFactory.cs",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\DataAccessFactory.cs",
-              "RelativeToolTip": "..\\DAL\\DataAccessFactory.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA1wCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:39:48.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "AccountService.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Services\\AccountService.cs",
@@ -287,12 +387,11 @@
               "RelativeToolTip": "..\\BLL\\Services\\AccountService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T03:00:20.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T03:00:20.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -300,12 +399,11 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAA5wBAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T03:03:26.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T03:03:26.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOs\\UserDTO.cs",
@@ -317,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "202404270947250_initDB1.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Migrations\\202404270947250_initDB1.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202404270947250_initDB1.cs",
@@ -329,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "EventDTO.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\BLL\\DTOs\\EventDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOs\\EventDTO.cs",
@@ -341,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Configuration.cs",
               "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\DAL\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Migrations\\Configuration.cs",
@@ -350,19 +448,6 @@
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T04:26:20.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\AIUB\\ADV .NET\\Projects\\StadiumSeatBookingApp\\StadiumSeatBookinApp\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAACFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-27T04:13:21.877Z",
-              "EditorCaption": ""
             }
           ]
         }
