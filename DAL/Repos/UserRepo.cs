@@ -8,18 +8,17 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class UserRepo : Repo, IRepo<User, string, User>
+    internal class UserRepo : Repo, IRepo<User, int, bool>
     {
-        public User Create(User obj)
+        public bool Create(User obj)
         {
            db.Users.Add(obj);
-            if (db.SaveChanges() > 0) return obj;
-            return null;
+            if (db.SaveChanges() > 0) return true;
+            return false;
         }
 
-        public bool Delete(string id)
+        public bool Delete(int id)
         {
-            /*throw new NotImplementedException();*/
             var del = Read(id);
             if (del == null) return false;
             db.Users.Remove(del);
@@ -28,24 +27,20 @@ namespace DAL.Repos
 
         public List<User> Read()
         {
-            /* throw new NotImplementedException();*/
             return db.Users.ToList();
         }
 
-        public User Read(string id)
+        public User Read(int id)
         {
             return db.Users.Find(id);
         }
 
-        public User Update(User obj)
+        public bool Update(User obj)
         {
-            /*throw new NotImplementedException();*/
-            var edit = Read(obj.Uname); 
-            if (edit == null) return null;
+            var edit = Read(obj.UserId);
             db.Entry(edit).CurrentValues.SetValues(obj);
-            if(db.SaveChanges() > 0) return obj;
-            return null;
-
+            if (db.SaveChanges() > 0) return true;
+            return false;
         }
     }
 }

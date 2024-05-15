@@ -15,6 +15,6 @@ namespace DAL.Models
         public DbSet<Seat> Seats { get; set; }
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Stadium> Stadiums { get; set; }
-
+        public DbSet<Ticket> Tickets { get; set; }
     }
 }

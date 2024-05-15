@@ -1,4 +1,5 @@
-﻿using BLL.Services;
+﻿using BLL.DTOs;
+using BLL.Services;
 using DAL.Models;
 using Microsoft.Graph;
 using System;
@@ -37,16 +38,24 @@ namespace StadiumSeatBookinApp.Controllers
             {
                 var booking = BookingService.Get(id);
                 int seatID = booking.SeatId;
+                int userID = booking.UserId;
+                int eventID = booking.EventId;
+
+                var events = EventService.Get(eventID);
+                var user = UserService.Get(userID);
                 var seat = SeatService.Get(seatID);
                 var response = new
                 {
                     BookingId = booking.BookingId,
-                    UserId = booking.UserId,
-                    EventId = booking.EventId,
-                    EventDate = booking.EventDate,
-                    SeatNumber = seat.SeatNumber,
+                   /* UserId = booking.UserId,*/
+                    UserName = user.Uname,
+                    /*EventId = booking.EventId,*/
+                    EventName = events.EventName,
+                    EventDate = events.DateTime,
+                    /*EventDate = booking.EventDate,*/
+                    /*SeatNumber = seat.SeatNumber,
                     section = seat.section,
-                    status = seat.status
+                    status = seat.status*/
                 };
                 return Request.CreateResponse(HttpStatusCode.OK, response);
 
