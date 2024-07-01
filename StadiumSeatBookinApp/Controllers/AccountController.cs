@@ -19,6 +19,8 @@ namespace StadiumSeatBookinApp.Controllers
             {
                 var data = AccountService.Get();
                 return Request.CreateResponse(HttpStatusCode.OK, data);
+
+
             }
             catch (Exception ex)
             {
@@ -33,7 +35,21 @@ namespace StadiumSeatBookinApp.Controllers
             try
             {
                 var data = AccountService.Get(id);
-                return Request.CreateResponse(HttpStatusCode.OK, data);
+                if(data == null)
+                {
+                    return Request.CreateResponse(HttpStatusCode.InternalServerError, "This User Account doesnot Register");
+                }
+                var userID = data.UserId;
+
+                var user = UserService.Get(userID);
+                var res = new
+                {
+                    AccountNumber = data.AccountNumber,
+                    Name = user.Name,
+                    AccountBalance = data.Balance,
+
+                };
+                return Request.CreateResponse(HttpStatusCode.OK, res);
             }
             catch (Exception ex)
             {

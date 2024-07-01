@@ -10,6 +10,11 @@ namespace DAL.Repos
 {
     internal class EventRepo : Repo, IRepo<Event, int, bool>
     {
+        public int Count(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public bool Create(Event obj)
         {
             /*throw new NotImplementedException();*/

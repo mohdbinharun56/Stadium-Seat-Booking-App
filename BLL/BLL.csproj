@@ -51,12 +51,16 @@
     <Compile Include="DTOs\EventDTO.cs" />
     <Compile Include="DTOs\SeatDTO.cs" />
     <Compile Include="DTOs\StadiumDTO.cs" />
+    <Compile Include="DTOs\TicketDTO.cs" />
     <Compile Include="DTOs\UserDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\AccountService.cs" />
     <Compile Include="Services\BookingService.cs" />
+    <Compile Include="Services\EventService.cs" />
     <Compile Include="Services\SeatService.cs" />
     <Compile Include="Services\StadiumService.cs" />
+    <Compile Include="Services\TicketService.cs" />
+    <Compile Include="Services\UserService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">

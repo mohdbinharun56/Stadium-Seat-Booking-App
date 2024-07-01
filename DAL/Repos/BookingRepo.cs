@@ -48,10 +48,24 @@ namespace DAL.Repos
             /*throw new NotImplementedException();*/
             var edit = Read(obj.BookingId);
             var seat = edit.SeatId;
-            if(seat == null) return false;
+            /*if(seat == null) return false;*/
             db.Entry(edit).CurrentValues.SetValues(obj);
             if (db.SaveChanges() > 0) return true;
             return false;
+        }
+        public int Count(int id)
+        {
+            int count = 0;
+            foreach (var booking in db.Bookings)
+            {
+                
+                if(booking.UserId == id)
+                {
+                    count = count + 1;
+                }
+            }
+           /* var userCount = db.Bookings.Count(b => b.UserId == id);*/
+            return count;
         }
     }
 }

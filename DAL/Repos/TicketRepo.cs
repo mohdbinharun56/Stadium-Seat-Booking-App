@@ -8,47 +8,47 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class SeatRepo : Repo, IRepo<Seat, int, bool>
+    internal class TicketRepo : Repo, IRepo<Ticket, int, bool>
     {
         public int Count(int id)
         {
             throw new NotImplementedException();
         }
 
-        public bool Create(Seat obj)
+        public bool Create(Ticket obj)
         {
-           /* throw new NotImplementedException();*/
-           db.Seats.Add(obj);
-            if(db.SaveChanges()>0) return true;
+            /*throw new NotImplementedException();*/
+            db.Tickets.Add(obj);
+            if (db.SaveChanges() > 0) return true;
             return false;
         }
 
         public bool Delete(int id)
         {
             /*throw new NotImplementedException();*/
-            var delete = Read(id);
-            db.Seats.Remove(delete);
+            var deleteTicket = Read(id);
+            db.Tickets.Remove(deleteTicket);
             return (db.SaveChanges() > 0);
         }
 
-        public List<Seat> Read()
+        public List<Ticket> Read()
         {
             /*throw new NotImplementedException();*/
-            return db.Seats.ToList();
+            return db.Tickets.ToList();
         }
 
-        public Seat Read(int id)
+        public Ticket Read(int id)
         {
             /*throw new NotImplementedException();*/
-            return db.Seats.Find(id);
+            return db.Tickets.Find(id);
         }
 
-        public bool Update(Seat obj)
+        public bool Update(Ticket obj)
         {
             /*throw new NotImplementedException();*/
-            var edit = Read(obj.SeatId);
+            var edit = Read(obj.TicketId);
             db.Entry(edit).CurrentValues.SetValues(obj);
-            if(db.SaveChanges() > 0) return true;
+            if (db.SaveChanges() > 0) return true;
             return false;
         }
     }

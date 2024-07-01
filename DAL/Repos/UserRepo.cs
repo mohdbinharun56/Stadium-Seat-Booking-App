@@ -10,9 +10,14 @@ namespace DAL.Repos
 {
     internal class UserRepo : Repo, IRepo<User, int, bool>
     {
+        public int Count(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public bool Create(User obj)
         {
-           db.Users.Add(obj);
+            db.Users.Add(obj);
             if (db.SaveChanges() > 0) return true;
             return false;
         }

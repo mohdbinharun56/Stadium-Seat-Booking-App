@@ -10,6 +10,11 @@ namespace DAL.Repos
 {
     internal class StadiumRepo : Repo, IRepo<Stadium, int, bool>
     {
+        public int Count(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public bool Create(Stadium obj)
         {
             db.Stadiums.Add(obj);

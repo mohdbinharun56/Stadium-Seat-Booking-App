@@ -10,6 +10,11 @@ namespace DAL.Repos
 {
     internal class AccountRepo : Repo, IRepo<Account, int, bool>
     {
+        public int Count(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public bool Create(Account obj)
         {
             var userId = db.Accounts.Find(obj.UserId);

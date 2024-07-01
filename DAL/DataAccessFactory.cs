@@ -11,11 +11,10 @@ namespace DAL
 {
     public class DataAccessFactory
     {
-        public static IRepo<User,string,User> UserData()
+        public static IRepo<User, int, bool> UserData()
         {
             return new UserRepo();
         }
-
         public static IRepo<Event, int, bool> EventData()
         {
             return new EventRepo();
@@ -39,6 +38,11 @@ namespace DAL
         public static IRepo<Stadium, int, bool> StadiumData()
         {
             return new StadiumRepo();
+        }
+
+        public static IRepo<Ticket, int, bool> TicketData()
+        {
+            return new TicketRepo();
         }
     }
 }

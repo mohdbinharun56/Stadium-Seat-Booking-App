@@ -56,5 +56,11 @@ namespace BLL.Services
             //Get(obj.SeatId);
             return res;
         }
+
+        public static int UserCount(int id)
+        {
+            var res = DataAccessFactory.BookingData().Count(id);
+            return res;
+        }
     }
 }

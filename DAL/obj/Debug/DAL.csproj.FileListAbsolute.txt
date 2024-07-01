@@ -16,3 +16,4 @@ D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.ini
 D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.account.resources
 D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.accountUpdated.resources
 D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.AddStadiumE.resources
+D:\AIUB\ADV .NET\Projects\StadiumSeatBookingApp\DAL\obj\Debug\DAL.Migrations.UpdateTicket.resources
